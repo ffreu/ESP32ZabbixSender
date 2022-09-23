@@ -1,7 +1,0 @@
-BasedOnStyle: llvm
-AccessModifierOffset: -4
-IndentWidth: 4
-TabWidth: 4
-ColumnLimit: 160
-UseTab: Always
-PointerBindsToType: true

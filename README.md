@@ -23,4 +23,8 @@ See `sample_ESP32ZabbixSender/sample_ESP32ZabbixSender.ino`
     }
 
 # Based on:  
+https://github.com/leruetkins/ESP32ZabbixSender
 https://github.com/zaphodus/ESP8266ZabbixSender
+
+## Changes: 
+Renamed the files and changed the datatype of the value to be sent from float to String to enable a larger variety of information to be sent.
